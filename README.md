@@ -6,5 +6,5 @@ A list of state-of-the-art image quality assessment algorithms and databases col
 **FR SIQA**
 * Quality assessment of stereoscopic images, EURASIP journal on image and video processing, 2009, Benoit A, Le Callet P, Campisi P, et al. [[PDF]](https://link.springer.com/content/pdf/10.1155/2008/659024.pdf)
 
-* Image Quality Assessment: from Error Visibility to Structural Similarity (SSIM), IEEE TIP, 2004, Wang Z et al. [[PDF]](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) [[Code]](https://ece.uwaterloo.ca/~z70wang/research/ssim/)
+* Perceptual quality assessment for stereoscopic images based on 2D image quality metrics and disparity analysis, Proc. Int. Workshop Video Process. Quality Metrics Consum. Electron, 2010, You, Junyong, et al. [[PDF]](https://www.researchgate.net/profile/Xu_Wang/publication/200774635_Perceptual_Quality_Assessment_for_Stereoscopic_Images_Based_on_2D_Image_Quality_Metrics_and_Disparity_Analysis/links/0991bbf095a1fa1220d82520.pdf)
 
